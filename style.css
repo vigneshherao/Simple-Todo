@@ -6,3 +6,12 @@ body{
 h3{
     text-align: center;
 }
+.main-content{
+    margin-top: 100px;
+    text-align: center;
+}
+p{
+    text-align: center;
+    background-color: rebeccapurple;
+    color: honeydew;
+}
